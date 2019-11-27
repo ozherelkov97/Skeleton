@@ -11,7 +11,7 @@ FILES:
 
     draw_number: просто нарисовать цифру из MNIST
 
-    draw_skeleton: отрисовать скелет цифры (!)
+    draw_skeleton: отрисовать скелет цифры 
 
     get_features: пример получения фичей из скелетов
 
