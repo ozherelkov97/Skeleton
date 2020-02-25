@@ -3,7 +3,7 @@ DIRS:
 
     zip_data: zip data
   
-    Previous researchers: полезный код от прошлый человеков
+    Previous researchers: полезный код от прошлых ребят
   
 FILES:
 
